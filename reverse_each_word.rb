@@ -1,2 +1,4 @@
 def reverse_each_word(source)
-  source = [source]
+  array_source = array.new(source)
+  array_source.each do { |
+end
